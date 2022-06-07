@@ -1,0 +1,5 @@
+*.bak
+errors.txt
+*.obj
+test.*
+*.class
